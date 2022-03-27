@@ -1,2 +1,2 @@
 *.SCSS linguist-detectable=false
-*.rb linguist-language=php
+*.SCSS linguist-language=PHP
