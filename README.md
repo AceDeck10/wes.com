@@ -9,4 +9,6 @@ i)   How form submitions work in PHP.
 
 ii)  How to login and log out users.
 
-iii) How to connect to a MySQL database, add, modify and remove records using PHP
+iii) How to connect to a MySQL database, add, modify and remove records using PHP.
+
+iv)  How to use Prepared statements to protect against SQL injection attacts.
